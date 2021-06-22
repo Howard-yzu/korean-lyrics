@@ -86,7 +86,10 @@ searching song you choose in [Genius.com](https://genius.com/)
 ```
 Searching for "song name you choose" by artist_id...
 ```
-Example:
+Example:\
+```
+Searching for "Next Level" by aespa...
+```
 Next Level_aespa_lyrics.txt
 ```
 [에스파 "Next Level" 가사]
