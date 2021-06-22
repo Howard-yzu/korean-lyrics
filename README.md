@@ -60,12 +60,12 @@ token = get_access_token()
 genius = lyricsgenius.Genius(token)
 ```
 get chart from billboard korea-100
-```
+```python
 chart = billboard.ChartData('billboard-korea-100')
 print(chart)
 ```
 romanize korean lyrics
-```
+```python
 r = Romanizer(lyrics)
 save_romanize_lyrics(r.romanize(),title,artist)
 ```
