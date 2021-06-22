@@ -3,7 +3,11 @@ korean lyrics是一個能從[《Billboard》K-Pop 100百大單曲榜](https://ww
 # installation
 ```
 pip install lyricsgenius
+```
+```
 pip install billboard.py
+```
+```
 pip install korean_romanizer
 ```
 # Quick start
