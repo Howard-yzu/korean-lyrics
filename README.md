@@ -88,6 +88,14 @@ Searching for "song name you choose" by artist_id...
 ```
 Example:
 ```
+billboard-korea-100 chart from 2021-06-19
+-----------------------------------------
+1. 'Butter' by BTS
+2. 'Dun Dun Dance' by OH MY GIRL
+3. 'Next Level' by aespa
+...
+100. 'I Knew I Love' by Jeon Mi Do
+which song lyrics you want to download(enter the song id number):3
 Searching for "Next Level" by aespa...
 ```
 Next Level_aespa_lyrics.txt
