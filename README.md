@@ -86,6 +86,49 @@ searching song you choose in [Genius.com](https://genius.com/)
 ```
 Searching for "song name you choose" by artist_id...
 ```
+Example:
+Next Level_aespa_lyrics.txt
+```
+[에스파 "Next Level" 가사]
+
+[Verse 1: Karina, Giselle]
+I'm on the next level, yeah
+절대적 룰을 지켜
+내 손을 놓지 말아 결속은 나의 무기
+광야로 걸어가
+알아 네 home ground
+위협에 맞서서
+제껴라 제껴라 제껴라
+
+[Pre-Chorus: All, Winter, Ningning]
+Ooh-ooh-ooh, eeh!
+상상도 못한 black out
+유혹은 깊고 진해 (Too hot, too hot)
+Ooh-ooh-ooh, eeh!
+맞잡은 손을 놓쳐
+난 절대 포기 못해
+```
+Next Level_aespa_rom_lyrics.txt
+```
+[eseupa "Next Level" gasa]
+
+[Verse 1: Karina, Giselle]
+I'm on the next level, yeah
+jeoldaejeok rureul jikyeo
+nae soneul nochi mara gyeolsogeun naui mugi
+gwangyaro georeoga
+ara ne home ground
+wihyeobe matseoseo
+jekkyeora jekkyeora jekkyeora
+
+[Pre-Chorus: All, Winter, Ningning]
+Ooh-ooh-ooh, eeh!
+sangsangdo mothan black out
+yuhogeun gipgo jinhae (Too hot, too hot)
+Ooh-ooh-ooh, eeh!
+matjabeun soneul nochyeo
+nan jeoldae pogi mothae
+```
 
 
 # References
