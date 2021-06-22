@@ -64,6 +64,11 @@ get chart from billboard korea-100
 chart = billboard.ChartData('billboard-korea-100')
 print(chart)
 ```
+romanize korean lyrics
+```
+r = Romanizer(lyrics)
+save_romanize_lyrics(r.romanize(),title,artist)
+```
 
 # Results
 run main.py in compiler
